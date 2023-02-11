@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Fidele Byigero (@fidobyigero) from Kigali, Rwanda.
-- 👀 I’m interested in Web & Mobile development and Data Science technologies
-- 🌱 I’m currently learning JavaScript (React) and Python (Django)
-- 💞️ I’m looking to collaborate on React and/Or Angular projects.
-- 📫 Reach me via my <a href="mailto:fidobyigero@gmail.com"> email</a>
+- 👀 Interested in Desktop, Web, Mobile, Wearables, 5G and Data Science technologies
+- 💞️ Collaborating on Java or C#/.NetCore Projects, Flutter, React, Preact, ...Angular projects.
+- 📫 Reach me via my <a href="mailto:fidobyigero@gmail.com"> email</a> for collabo!
 
 <!---
 fidobyigero/fidobyigero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
